@@ -1,7 +1,7 @@
 ![MasterHead](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=)]
 <h1 align="center">Hi 👋, I'm Somnath Pandit</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath-pandit&label=Profile%20views&color=0e75b6&style=flat" alt="somnath-pandit" /> </p>
 
