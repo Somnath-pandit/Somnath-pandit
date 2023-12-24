@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamsomu98" target="blank"><img src="https://img.shields.io/twitter/follow/iamsomu98?logo=twitter&style=for-the-badge" alt="iamsomu98" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JAVA, Python**
+- 💬 Ask me about **SQL, Python**
 
 - 📫 How to reach me **panditsomnath396@gmail.com**
 
