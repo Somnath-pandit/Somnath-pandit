@@ -1,30 +1,34 @@
-![MasterHead](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=)]
-<h1 align="center">Hi 👋, I'm Somnath Pandit</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif">
+
+<h1 align="Left">Hi 👋, I'm Somnath Pandit</h1>
+Hello and welcome to my GitHub profile! I'm all about using data analytics to help businesses make smart decisions and grow. I'm skilled in Excel, PowerBI, SQL, and Python, combining tech know-how with business sense to deliver effective solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath-pandit&label=Profile%20views&color=0e75b6&style=flat" alt="somnath-pandit" /> </p>
+<h3 align="Left"> About me</h3>
 
-<p align="left"> <a href="https://twitter.com/iamsomu98" target="blank"><img src="https://img.shields.io/twitter/follow/iamsomu98?logo=twitter&style=for-the-badge" alt="iamsomu98" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 💼 Aspiring Data Analyst  
+- 💬 Ask me about **SQL, Excel, PowerBI, Python**
+- 📫 How to reach me **somnathp.analyst@gmail.com**
+- 🎓 Bachelor's in Mechanical Engineering
 
-- 💬 Ask me about **SQL, Python**
+<h3 align="left">Languages and Tools:</h3>
 
-- 📫 How to reach me **panditsomnath396@gmail.com**
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- ⚡ Fun fact **I am interesting and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamsomu98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsomu98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/somnath-pandit-274b011b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/somnath-pandit-274b011b6/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/panditsomnath396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/panditsomnath396" height="30" width="40" /></a>
-</p>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/somnath-pandit-274b011b6/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="mailto:somnathp.analyst@gmail.com" target="blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnath-pandit&show_icons=true&locale=en&layout=compact" alt="somnath-pandit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somnath-pandit&show_icons=true&locale=en" alt="somnath-pandit" /></p>
+
