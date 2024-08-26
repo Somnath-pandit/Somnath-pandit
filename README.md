@@ -6,7 +6,7 @@ Hello and welcome to my GitHub profile! I'm all about using data analytics to he
 <h2 align="Left"> About me</h2>
 
 
-- 💼 Aspiring Data Analyst  
+- 💼 Data Analyst  
 - 💬 Ask me about **SQL, Excel, PowerBI, Python**
 - 📫 How to reach me **somnathp.analyst@gmail.com**
 - 🎓 Bachelor's in Mechanical Engineering
